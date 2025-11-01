@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Matrimonial Registration Form</title>
+</head>
+<body>
+  <h1>Matrimonial Registration</h1>
+
+  <form id="matriForm" action="/register" method="post" enctype="multipart/form-data" novalidate>
+    <fieldset>
+      <legend>Profile</legend>
+      <label for="createdBy">Profile created by:</label>
+      <select id="createdBy" name="createdBy" required>
+        <option value="">Select</option>
+        <option>Self</option>
+        <option>Parent</option>
+        <option>Sibling</option>
+        <option>Relative</option>
+        <option>Friend</option>
+      </select>
+    </fieldset>
+
+    <fieldset>
+      <legend>Personal details</legend>
+      <label for="fullName">Full name:</label>
+      <input id="fullName" name="fullName" type="text" autocomplete="name" required />
+
+      <div>
+        Gender:
+        <label><input type="radio" name="gender" value="Male" required /> Male</label>
+        <label><input type="radio" name="gender" value="Female" /> Female</label>
+        <label><input type="radio" name="gender" value="Other" /> Other</label>
+      </div>
+
+      <label for="dob">Date of birth:</label>
+      <input id="dob" name="dob" type="date" required />
+
+      <label for="maritalStatus">Marital status:</label>
+      <select id="maritalStatus" name="maritalStatus" required>
+        <option value="">Select</option>
+        <option>Never Married</option>
+        <option>Divorced</option>
+        <option>Widowed</option>
+        <option>Annulled</option>
+      </select>
+
+      <label for="heightCm">Height (cm):</label>
+      <input id="heightCm" name="heightCm" type="number" min="120" max="220" step="1" />
+
+      <label for="weightKg">Weight (kg):</label>
+      <input id="weightKg" name="weightKg" type="number" min="35" max="200" step="0.5" />
+
+      <label for="bloodGroup">Blood group:</label>
+      <select id="bloodGroup" name="bloodGroup">
+        <option value="">Select</option>
+        <option>A+</option><option>A-</option>
+        <option>B+</option><option>B-</option>
+        <option>AB+</option><option>AB-</option>
+        <option>O+</option><option>O-</option>
+      </select>
+    </fieldset>
+
+    <fieldset>
+      <legend>Contact</legend>
+      <label for="email">Email:</label>
+      <input id="email" name="email" type="email" autocomplete="email" required />
+
+      <label for="phone">Phone:</label>
+      <input id="phone" name="phone" type="tel" inputmode="tel" pattern="[0-9]{7,15}" placeholder="Digits only, 7-15" required />
+
+      <label for="address">Address:</label>
+      <textarea id="address" name="address" rows="3"></textarea>
+
+      <label for="country">Country:</label>
+      <input id="country" name="country" type="text" autocomplete="country-name" required />
+
+      <label for="state">State/Province:</label>
+      <input id="state" name="state" type="text" autocomplete="address-level1" />
+
+      <label for="city">City:</label>
+      <input id="city" name="city" type="text" autocomplete="address-level2" />
+
+      <label for="pincode">Postal code:</label>
+      <input id="pincode" name="pincode" type="text" inputmode="numeric" pattern="[0-9A-Za-z\- ]{3,10}" />
+    </fieldset>
+
+    <fieldset>
+      <legend>Education & career</legend>
+      <label for="education">Highest education:</label>
+      <select id="education" name="education">
+        <option value="">Select</option>
+        <option>High School</option>
+        <option>Bachelor's</option>
+        <option>Master's</option>
+        <option>Doctorate</option>
+        <option>Diploma</option>
+        <option>Other</option>
+      </select>
+
+      <label for="occupation">Occupation:</label>
+      <input id="occupation" name="occupation" type="text" />
+
+      <label for="company">Company/Organization:</label>
+      <input id="company" name="company" type="text" />
+
+      <label for="income">Annual income (in local currency):</label>
+      <input id="income" name="income" type="number" min="0" step="1" />
+    </fieldset>
+
+    <fieldset>
+      <legend>Lifestyle & background</legend>
+      <label for="religion">Religion:</label>
+      <input id="religion" name="religion" type="text" />
+
+      <label for="community">Caste/Community (optional):</label>
+      <input id="community" name="community" type="text" />
+
+      <label for="motherTongue">Mother tongue:</label>
+      <input id="motherTongue" name="motherTongue" type="text" />
+
+      <label for="diet">Diet:</label>
+      <select id="diet" name="diet">
+        <option value="">Select</option>
+        <option>Vegetarian</option>
+        <option>Non-Vegetarian</option>
+        <option>Eggetarian</option>
+        <option>Vegan</option>
+      </select>
+
+      <label for="smoking">Smoking:</label>
+      <select id="smoking" name="smoking">
+        <option value="">Select</option>
+        <option>Never</option>
+        <option>Occasionally</option>
+        <option>Regularly</option>
+      </select>
+
+      <label for="drinking">Drinking:</label>
+      <select id="drinking" name="drinking">
+        <option value="">Select</option>
+        <option>Never</option>
+        <option>Occasionally</option>
+        <option>Regularly</option>
+      </select>
+    </fieldset>
+
+    <fieldset>
+      <legend>Family details</legend>
+      <label for="fatherName">Father's name:</label>
+      <input id="fatherName" name="fatherName" type="text" />
+
+      <label for="motherName">Mother's name:</label>
+      <input id="motherName" name="motherName" type="text" />
+
+      <label for="familyType">Family type:</label>
+      <select id="familyType" name="familyType">
+        <option value="">Select</option>
+        <option>Nuclear</option>
+        <option>Joint</option>
+      </select>
+
+      <label for="familyStatus">Family status:</label>
+      <select id="familyStatus" name="familyStatus">
+        <option value="">Select</option>
+        <option>Middle Class</option>
+        <option>Upper Middle Class</option>
+        <option>Affluent</option>
+      </select>
+
+      <label for="siblings">Siblings:</label>
+      <input id="siblings" name="siblings" type="number" min="0" max="10" />
+    </fieldset>
+
+    <fieldset>
+      <legend>About you</legend>
+      <label for="about">About me:</label>
+      <textarea id="about" name="about" rows="4" placeholder="Describe yourself, interests, values, and goals"></textarea>
+    </fieldset>
+
+    <fieldset>
+      <legend>Partner preferences</legend>
+      <label for="prefAgeMin">Preferred age (min):</label>
+      <input id="prefAgeMin" name="prefAgeMin" type="number" min="18" max="80" />
+
+      <label for="prefAgeMax">Preferred age (max):</label>
+      <input id="prefAgeMax" name="prefAgeMax" type="number" min="18" max="80" />
+
+      <label for="prefHeightMin">Preferred height min (cm):</label>
+      <input id="prefHeightMin" name="prefHeightMin" type="number" min="120" max="220" />
+
+      <label for="prefHeightMax">Preferred height max (cm):</label>
+      <input id="prefHeightMax" name="prefHeightMax" type="number" min="120" max="220" />
+
+      <label for="prefReligion">Religion:</label>
+      <input id="prefReligion" name="prefReligion" type="text" />
+
+      <label for="prefCommunity">Caste/Community:</label>
+      <input id="prefCommunity" name="prefCommunity" type="text" />
+
+      <label for="prefEducation">Education:</label>
+      <input id="prefEducation" name="prefEducation" type="text" />
+
+      <label for="prefOccupation">Occupation:</label>
+      <input id="prefOccupation" name="prefOccupation" type="text" />
+
+      <label for="prefLocation">Location:</label>
+      <input id="prefLocation" name="prefLocation" type="text" />
+
+      <label for="prefMaritalStatus">Marital status:</label>
+      <input id="prefMaritalStatus" name="prefMaritalStatus" type="text" />
+    </fieldset>
+
+    <fieldset>
+      <legend>Account</legend>
+      <label for="username">Username:</label>
+      <input id="username" name="username" type="text" autocomplete="username" required />
+
+      <label for="password">Password:</label>
+      <input id="password" name="password" type="password" autocomplete="new-password" minlength="8" required />
+
+      <label for="confirmPassword">Confirm password:</label>
+      <input id="confirmPassword" name="confirmPassword" type="password" autocomplete="new-password" minlength="8" required />
+    </fieldset>
+
+    <fieldset>
+      <legend>Photo upload</legend>
+      <label for="photo">Upload profile photo (JPG/PNG, max 5 MB):</label>
+      <input id="photo" name="photo" type="file" accept="image/*" />
+      <div>
+        <img id="photoPreview" alt="Photo preview" style="max-width:150px;max-height:150px;display:none;" />
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Consent</legend>
+      <label><input id="terms" name="terms" type="checkbox" required /> I agree to the Terms and Privacy Policy</label>
+    </fieldset>
+
+    <div>
+      <button type="submit" id="submitBtn">Submit</button>
+      <button type="reset">Reset</button>
+    </div>
+  </form>
+</body>
+</html>
