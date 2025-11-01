@@ -181,10 +181,10 @@
 
     <fieldset>
       <legend>Partner preferences</legend>
-      <label for="prefAgeMin">Preferred age (min):</label>
+      <label for="prefAgeMin">Preferred age (Above-18y):</label>
       <input id="prefAgeMin" name="prefAgeMin" type="number" min="18" max="80" />
 
-      <label for="prefAgeMax">Preferred age (max):</label>
+      <label for="prefAgeMax">Preferred age (Max):</label>
       <input id="prefAgeMax" name="prefAgeMax" type="number" min="18" max="80" />
 
       <label for="prefHeightMin">Preferred height min (cm):</label>
