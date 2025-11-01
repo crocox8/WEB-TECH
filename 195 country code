@@ -1,0 +1,1182 @@
+<table border="2">
+    <thead>
+        <tr>
+            <th>Country</th>
+            <th>Capital</th>
+            <th>Area (sq km)</th>
+            <th>Flag</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Afghanistan</td>
+            <td>Kabul</td>
+            <td>652,864</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Islamic_Republic_of_Afghanistan.svg/50px-Flag_of_the_Islamic_Republic_of_Afghanistan.svg.png" alt="Flag of Afghanistan" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Albania</td>
+            <td>Tirana</td>
+            <td>28,748</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/50px-Flag_of_Albania.svg.png" alt="Flag of Albania" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Algeria</td>
+            <td>Algiers</td>
+            <td>2,381,741</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/50px-Flag_of_Algeria.svg.png" alt="Flag of Algeria" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Andorra</td>
+            <td>Andorra la Vella</td>
+            <td>468</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/50px-Flag_of_Andorra.svg.png" alt="Flag of Andorra" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Angola</td>
+            <td>Luanda</td>
+            <td>1,246,700</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/50px-Flag_of_Angola.svg.png" alt="Flag of Angola" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Antigua and Barbuda</td>
+            <td>St. John's</td>
+            <td>442</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/50px-Flag_of_Antigua_and_Barbuda.svg.png" alt="Flag of Antigua and Barbuda" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Argentina</td>
+            <td>Buenos Aires</td>
+            <td>2,780,400</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/50px-Flag_of_Argentina.svg.png" alt="Flag of Argentina" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Armenia</td>
+            <td>Yerevan</td>
+            <td>29,743</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/50px-Flag_of_Armenia.svg.png" alt="Flag of Armenia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Australia</td>
+            <td>Canberra</td>
+            <td>7,692,024</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/50px-Flag_of_Australia_%28converted%29.svg.png" alt="Flag of Australia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Austria</td>
+            <td>Vienna</td>
+            <td>83,871</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/50px-Flag_of_Austria.svg.png" alt="Flag of Austria" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Azerbaijan</td>
+            <td>Baku</td>
+            <td>86,600</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/50px-Flag_of_Azerbaijan.svg.png" alt="Flag of Azerbaijan" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Bahamas</td>
+            <td>Nassau</td>
+            <td>13,880</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/50px-Flag_of_the_Bahamas.svg.png" alt="Flag of Bahamas" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Bahrain</td>
+            <td>Manama</td>
+            <td>765</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/50px-Flag_of_Bahrain.svg.png" alt="Flag of Bahrain" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Bangladesh</td>
+            <td>Dhaka</td>
+            <td>147,570</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/50px-Flag_of_Bangladesh.svg.png" alt="Flag of Bangladesh" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Barbados</td>
+            <td>Bridgetown</td>
+            <td>430</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/50px-Flag_of_Barbados.svg.png" alt="Flag of Barbados" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Belarus</td>
+            <td>Minsk</td>
+            <td>207,595</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/50px-Flag_of_Belarus.svg.png" alt="Flag of Belarus" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Belgium</td>
+            <td>Brussels</td>
+            <td>30,528</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/50px-Flag_of_Belgium.svg.png" alt="Flag of Belgium" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Belize</td>
+            <td>Belmopan</td>
+            <td>22,966</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/50px-Flag_of_Belize.svg.png" alt="Flag of Belize" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Benin</td>
+            <td>Porto-Novo</td>
+            <td>114,763</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/50px-Flag_of_Benin.svg.png" alt="Flag of Benin" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Bhutan</td>
+            <td>Thimphu</td>
+            <td>38,394</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/50px-Flag_of_Bhutan.svg.png" alt="Flag of Bhutan" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Bolivia</td>
+            <td>La Paz (administrative), Sucre (constitutional)</td>
+            <td>1,098,581</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/50px-Flag_of_Bolivia_%28state%29.svg.png" alt="Flag of Bolivia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Bosnia and Herzegovina</td>
+            <td>Sarajevo</td>
+            <td>51,197</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/50px-Flag_of_Bosnia_and_Herzegovina.svg.png" alt="Flag of Bosnia and Herzegovina" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Botswana</td>
+            <td>Gaborone</td>
+            <td>581,730</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/50px-Flag_of_Botswana.svg.png" alt="Flag of Botswana" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Brazil</td>
+            <td>Brasília</td>
+            <td>8,515,767</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/50px-Flag_of_Brazil.svg.png" alt="Flag of Brazil" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Brunei</td>
+            <td>Bandar Seri Begawan</td>
+            <td>5,765</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/50px-Flag_of_Brunei.svg.png" alt="Flag of Brunei" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Bulgaria</td>
+            <td>Sofia</td>
+            <td>110,994</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/50px-Flag_of_Bulgaria.svg.png" alt="Flag of Bulgaria" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Burkina Faso</td>
+            <td>Ouagadougou</td>
+            <td>274,200</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/50px-Flag_of_Burkina_Faso.svg.png" alt="Flag of Burkina Faso" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Burundi</td>
+            <td>Gitega (political), Bujumbura (economic)</td>
+            <td>27,834</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/50px-Flag_of_Burundi.svg.png" alt="Flag of Burundi" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Cabo Verde</td>
+            <td>Praia</td>
+            <td>4,033</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/50px-Flag_of_Cape_Verde.svg.png" alt="Flag of Cabo Verde" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Cambodia</td>
+            <td>Phnom Penh</td>
+            <td>181,035</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/50px-Flag_of_Cambodia.svg.png" alt="Flag of Cambodia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Cameroon</td>
+            <td>Yaoundé</td>
+            <td>475,442</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/50px-Flag_of_Cameroon.svg.png" alt="Flag of Cameroon" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Canada</td>
+            <td>Ottawa</td>
+            <td>9,984,670</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/50px-Flag_of_Canada.svg.png" alt="Flag of Canada" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Central African Republic</td>
+            <td>Bangui</td>
+            <td>622,984</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/50px-Flag_of_the_Central_African_Republic.svg.png" alt="Flag of Central African Republic" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Chad</td>
+            <td>N'Djamena</td>
+            <td>1,284,000</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/50px-Flag_of_Chad.svg.png" alt="Flag of Chad" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Chile</td>
+            <td>Santiago</td>
+            <td>756,102</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/50px-Flag_of_Chile.svg.png" alt="Flag of Chile" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>China</td>
+            <td>Beijing</td>
+            <td>9,596,961</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/50px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="Flag of China" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Colombia</td>
+            <td>Bogotá</td>
+            <td>1,141,748</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/50px-Flag_of_Colombia.svg.png" alt="Flag of Colombia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Comoros</td>
+            <td>Moroni</td>
+            <td>2,235</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/50px-Flag_of_the_Comoros.svg.png" alt="Flag of Comoros" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Congo (Democratic Republic of the)</td>
+            <td>Kinshasa</td>
+            <td>2,344,858</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/50px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png" alt="Flag of DRC" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Congo (Republic of the)</td>
+            <td>Brazzaville</td>
+            <td>342,000</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/50px-Flag_of_the_Republic_of_the_Congo.svg.png" alt="Flag of Republic of the Congo" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Costa Rica</td>
+            <td>San José</td>
+            <td>51,100</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/50px-Flag_of_Costa_Rica_%28state%29.svg.png" alt="Flag of Costa Rica" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Côte d'Ivoire</td>
+            <td>Yamoussoukro (official), Abidjan (de facto)</td>
+            <td>322,463</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/50px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" alt="Flag of Côte d'Ivoire" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Croatia</td>
+            <td>Zagreb</td>
+            <td>56,594</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/50px-Flag_of_Croatia.svg.png" alt="Flag of Croatia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Cuba</td>
+            <td>Havana</td>
+            <td>109,884</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/50px-Flag_of_Cuba.svg.png" alt="Flag of Cuba" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Cyprus</td>
+            <td>Nicosia</td>
+            <td>9,251</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/50px-Flag_of_Cyprus.svg.png" alt="Flag of Cyprus" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Czech Republic</td>
+            <td>Prague</td>
+            <td>78,867</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/50px-Flag_of_the_Czech_Republic.svg.png" alt="Flag of Czech Republic" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Denmark</td>
+            <td>Copenhagen</td>
+            <td>43,094</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/50px-Flag_of_Denmark.svg.png" alt="Flag of Denmark" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Djibouti</td>
+            <td>Djibouti City</td>
+            <td>23,200</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/50px-Flag_of_Djibouti.svg.png" alt="Flag of Djibouti" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Dominica</td>
+            <td>Roseau</td>
+            <td>751</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/50px-Flag_of_Dominica.svg.png" alt="Flag of Dominica" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Dominican Republic</td>
+            <td>Santo Domingo</td>
+            <td>48,671</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/50px-Flag_of_the_Dominican_Republic.svg.png" alt="Flag of Dominican Republic" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Ecuador</td>
+            <td>Quito</td>
+            <td>283,561</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/50px-Flag_of_Ecuador.svg.png" alt="Flag of Ecuador" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Egypt</td>
+            <td>Cairo</td>
+            <td>1,010,408</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/50px-Flag_of_Egypt.svg.png" alt="Flag of Egypt" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>El Salvador</td>
+            <td>San Salvador</td>
+            <td>21,041</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/50px-Flag_of_El_Salvador.svg.png" alt="Flag of El Salvador" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Equatorial Guinea</td>
+            <td>Malabo</td>
+            <td>28,051</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/50px-Flag_of_Equatorial_Guinea.svg.png" alt="Flag of Equatorial Guinea" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Eritrea</td>
+            <td>Asmara</td>
+            <td>117,600</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/50px-Flag_of_Eritrea.svg.png" alt="Flag of Eritrea" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Estonia</td>
+            <td>Tallinn</td>
+            <td>45,227</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/50px-Flag_of_Estonia.svg.png" alt="Flag of Estonia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Eswatini</td>
+            <td>Mbabane (administrative), Lobamba (royal and legislative)</td>
+            <td>17,364</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/50px-Flag_of_Eswatini.svg.png" alt="Flag of Eswatini" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Ethiopia</td>
+            <td>Addis Ababa</td>
+            <td>1,104,300</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/50px-Flag_of_Ethiopia.svg.png" alt="Flag of Ethiopia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Fiji</td>
+            <td>Suva</td>
+            <td>18,272</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/50px-Flag_of_Fiji.svg.png" alt="Flag of Fiji" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Finland</td>
+            <td>Helsinki</td>
+            <td>338,424</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/50px-Flag_of_Finland.svg.png" alt="Flag of Finland" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>France</td>
+            <td>Paris</td>
+            <td>643,801</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png" alt="Flag of France" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Gabon</td>
+            <td>Libreville</td>
+            <td>267,668</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/50px-Flag_of_Gabon.svg.png" alt="Flag of Gabon" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Gambia</td>
+            <td>Banjul</td>
+            <td>10,689</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/50px-Flag_of_The_Gambia.svg.png" alt="Flag of Gambia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Georgia</td>
+            <td>Tbilisi</td>
+            <td>69,700</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/50px-Flag_of_Georgia.svg.png" alt="Flag of Georgia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Germany</td>
+            <td>Berlin</td>
+            <td>357,022</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/50px-Flag_of_Germany.svg.png" alt="Flag of Germany" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Ghana</td>
+            <td>Accra</td>
+            <td>238,533</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/50px-Flag_of_Ghana.svg.png" alt="Flag of Ghana" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Greece</td>
+            <td>Athens</td>
+            <td>131,957</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/50px-Flag_of_Greece.svg.png" alt="Flag of Greece" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Grenada</td>
+            <td>St. George's</td>
+            <td>344</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/50px-Flag_of_Grenada.svg.png" alt="Flag of Grenada" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Guatemala</td>
+            <td>Guatemala City</td>
+            <td>108,889</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/50px-Flag_of_Guatemala.svg.png" alt="Flag of Guatemala" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Guinea</td>
+            <td>Conakry</td>
+            <td>245,857</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/50px-Flag_of_Guinea.svg.png" alt="Flag of Guinea" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Guinea-Bissau</td>
+            <td>Bissau</td>
+            <td>36,125</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/50px-Flag_of_Guinea-Bissau.svg.png" alt="Flag of Guinea-Bissau" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Guyana</td>
+            <td>Georgetown</td>
+            <td>214,969</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/50px-Flag_of_Guyana.svg.png" alt="Flag of Guyana" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Haiti</td>
+            <td>Port-au-Prince</td>
+            <td>27,750</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/50px-Flag_of_Haiti.svg.png" alt="Flag of Haiti" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Honduras</td>
+            <td>Tegucigalpa</td>
+            <td>112,492</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/50px-Flag_of_Honduras.svg.png" alt="Flag of Honduras" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Hungary</td>
+            <td>Budapest</td>
+            <td>93,028</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/50px-Flag_of_Hungary.svg.png" alt="Flag of Hungary" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Iceland</td>
+            <td>Reykjavik</td>
+            <td>103,000</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/50px-Flag_of_Iceland.svg.png" alt="Flag of Iceland" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>India</td>
+            <td>New Delhi</td>
+            <td>3,287,590</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/50px-Flag_of_India.svg.png" alt="Flag of India" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Indonesia</td>
+            <td>Jakarta</td>
+            <td>1,904,569</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/50px-Flag_of_Indonesia.svg.png" alt="Flag of Indonesia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Iran</td>
+            <td>Tehran</td>
+            <td>1,648,195</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/50px-Flag_of_Iran.svg.png" alt="Flag of Iran" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Iraq</td>
+            <td>Baghdad</td>
+            <td>438,317</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/50px-Flag_of_Iraq.svg.png" alt="Flag of Iraq" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Ireland</td>
+            <td>Dublin</td>
+            <td>70,273</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/50px-Flag_of_Ireland.svg.png" alt="Flag of Ireland" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Israel</td>
+            <td>Jerusalem</td>
+            <td>22,072</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/50px-Flag_of_Israel.svg.png" alt="Flag of Israel" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Italy</td>
+            <td>Rome</td>
+            <td>301,340</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/50px-Flag_of_Italy.svg.png" alt="Flag of Italy" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Jamaica</td>
+            <td>Kingston</td>
+            <td>10,991</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/50px-Flag_of_Jamaica.svg.png" alt="Flag of Jamaica" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Japan</td>
+            <td>Tokyo</td>
+            <td>377,975</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/50px-Flag_of_Japan.svg.png" alt="Flag of Japan" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Jordan</td>
+            <td>Amman</td>
+            <td>89,342</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/50px-Flag_of_Jordan.svg.png" alt="Flag of Jordan" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Kazakhstan</td>
+            <td>Astana</td>
+            <td>2,724,900</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/50px-Flag_of_Kazakhstan.svg.png" alt="Flag of Kazakhstan" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Kenya</td>
+            <td>Nairobi</td>
+            <td>580,367</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/50px-Flag_of_Kenya.svg.png" alt="Flag of Kenya" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Kiribati</td>
+            <td>South Tarawa</td>
+            <td>811</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/50px-Flag_of_Kiribati.svg.png" alt="Flag of Kiribati" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>North Korea</td>
+            <td>Pyongyang</td>
+            <td>120,538</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/50px-Flag_of_North_Korea.svg.png" alt="Flag of North Korea" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>South Korea</td>
+            <td>Seoul</td>
+            <td>100,210</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/50px-Flag_of_South_Korea.svg.png" alt="Flag of South Korea" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Kosovo</td>
+            <td>Pristina</td>
+            <td>10,887</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/50px-Flag_of_Kosovo.svg.png" alt="Flag of Kosovo" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Kuwait</td>
+            <td>Kuwait City</td>
+            <td>17,818</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/50px-Flag_of_Kuwait.svg.png" alt="Flag of Kuwait" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Kyrgyzstan</td>
+            <td>Bishkek</td>
+            <td>199,951</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/50px-Flag_of_Kyrgyzstan.svg.png" alt="Flag of Kyrgyzstan" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Laos</td>
+            <td>Vientiane</td>
+            <td>236,800</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/50px-Flag_of_Laos.svg.png" alt="Flag of Laos" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Latvia</td>
+            <td>Riga</td>
+            <td>64,589</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/50px-Flag_of_Latvia.svg.png" alt="Flag of Latvia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Lebanon</td>
+            <td>Beirut</td>
+            <td>10,452</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/50px-Flag_of_Lebanon.svg.png" alt="Flag of Lebanon" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Lesotho</td>
+            <td>Maseru</td>
+            <td>30,355</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/50px-Flag_of_Lesotho.svg.png" alt="Flag of Lesotho" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Liberia</td>
+            <td>Monrovia</td>
+            <td>111,369</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/50px-Flag_of_Liberia.svg.png" alt="Flag of Liberia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Libya</td>
+            <td>Tripoli</td>
+            <td>1,759,540</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/50px-Flag_of_Libya.svg.png" alt="Flag of Libya" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Liechtenstein</td>
+            <td>Vaduz</td>
+            <td>160</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/50px-Flag_of_Liechtenstein.svg.png" alt="Flag of Liechtenstein" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Lithuania</td>
+            <td>Vilnius</td>
+            <td>65,300</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/50px-Flag_of_Lithuania.svg.png" alt="Flag of Lithuania" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Luxembourg</td>
+            <td>Luxembourg City</td>
+            <td>2,586</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/50px-Flag_of_Luxembourg.svg.png" alt="Flag of Luxembourg" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Madagascar</td>
+            <td>Antananarivo</td>
+            <td>587,041</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/50px-Flag_of_Madagascar.svg.png" alt="Flag of Madagascar" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Malawi</td>
+            <td>Lilongwe</td>
+            <td>118,484</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/50px-Flag_of_Malawi.svg.png" alt="Flag of Malawi" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Malaysia</td>
+            <td>Kuala Lumpur</td>
+            <td>330,803</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/50px-Flag_of_Malaysia.svg.png" alt="Flag of Malaysia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Maldives</td>
+            <td>Malé</td>
+            <td>300</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/50px-Flag_of_Maldives.svg.png" alt="Flag of Maldives" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Mali</td>
+            <td>Bamako</td>
+            <td>1,240,192</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/50px-Flag_of_Mali.svg.png" alt="Flag of Mali" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Malta</td>
+            <td>Valletta</td>
+            <td>316</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/50px-Flag_of_Malta.svg.png" alt="Flag of Malta" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Marshall Islands</td>
+            <td>Majuro</td>
+            <td>181</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/50px-Flag_of_the_Marshall_Islands.svg.png" alt="Flag of Marshall Islands" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Mauritania</td>
+            <td>Nouakchott</td>
+            <td>1,030,700</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/50px-Flag_of_Mauritania.svg.png" alt="Flag of Mauritania" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Mauritius</td>
+            <td>Port Louis</td>
+            <td>2,040</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/50px-Flag_of_Mauritius.svg.png" alt="Flag of Mauritius" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Mexico</td>
+            <td>Mexico City</td>
+            <td>1,972,550</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/50px-Flag_of_Mexico.svg.png" alt="Flag of Mexico" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Micronesia (Federated States of)</td>
+            <td>Palikir</td>
+            <td>702</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/50px-Flag_of_the_Federated_States_of_Micronesia.svg.png" alt="Flag of Micronesia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Moldova</td>
+            <td>Chișinău</td>
+            <td>33,846</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/50px-Flag_of_Moldova.svg.png" alt="Flag of Moldova" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Monaco</td>
+            <td>Monaco</td>
+            <td>2</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/50px-Flag_of_Monaco.svg.png" alt="Flag of Monaco" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Mongolia</td>
+            <td>Ulaanbaatar</td>
+            <td>1,564,116</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/50px-Flag_of_Mongolia.svg.png" alt="Flag of Mongolia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Montenegro</td>
+            <td>Podgorica</td>
+            <td>13,812</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/50px-Flag_of_Montenegro.svg.png" alt="Flag of Montenegro" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Morocco</td>
+            <td>Rabat</td>
+            <td>446,550</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/50px-Flag_of_Morocco.svg.png" alt="Flag of Morocco" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Mozambique</td>
+            <td>Maputo</td>
+            <td>799,380</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/50px-Flag_of_Mozambique.svg.png" alt="Flag of Mozambique" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Myanmar</td>
+            <td>Naypyidaw</td>
+            <td>676,578</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/50px-Flag_of_Myanmar.svg.png" alt="Flag of Myanmar" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Namibia</td>
+            <td>Windhoek</td>
+            <td>825,615</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/50px-Flag_of_Namibia.svg.png" alt="Flag of Namibia" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Nauru</td>
+            <td>Yaren District (de facto)</td>
+            <td>21</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/50px-Flag_of_Nauru.svg.png" alt="Flag of Nauru" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Nepal</td>
+            <td>Kathmandu</td>
+            <td>147,181</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/41px-Flag_of_Nepal.svg.png" alt="Flag of Nepal" width="41" height="50"></td>
+        </tr>
+        <tr>
+            <td>Netherlands</td>
+            <td>Amsterdam</td>
+            <td>41,543</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/50px-Flag_of_the_Netherlands.svg.png" alt="Flag of Netherlands" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>New Zealand</td>
+            <td>Wellington</td>
+            <td>268,021</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/50px-Flag_of_New_Zealand.svg.png" alt="Flag of New Zealand" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Nicaragua</td>
+            <td>Managua</td>
+            <td>130,373</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/50px-Flag_of_Nicaragua.svg.png" alt="Flag of Nicaragua" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Niger</td>
+            <td>Niamey</td>
+            <td>1,267,000</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/50px-Flag_of_Niger.svg.png" alt="Flag of Niger" width="50" height="42"></td>
+        </tr>
+        <tr>
+            <td>Nigeria</td>
+            <td>Abuja</td>
+            <td>923,768</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/50px-Flag_of_Nigeria.svg.png" alt="Flag of Nigeria" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>North Macedonia</td>
+            <td>Skopje</td>
+            <td>25,713</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/50px-Flag_of_North_Macedonia.svg.png" alt="Flag of North Macedonia" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Norway</td>
+            <td>Oslo</td>
+            <td>385,207</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/50px-Flag_of_Norway.svg.png" alt="Flag of Norway" width="50" height="36"></td>
+        </tr>
+        <tr>
+            <td>Oman</td>
+            <td>Muscat</td>
+            <td>309,500</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/50px-Flag_of_Oman.svg.png" alt="Flag of Oman" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Pakistan</td>
+            <td>Islamabad</td>
+            <td>881,913</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/50px-Flag_of_Pakistan.svg.png" alt="Flag of Pakistan" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Palau</td>
+            <td>Ngerulmud</td>
+            <td>459</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/50px-Flag_of_Palau.svg.png" alt="Flag of Palau" width="50" height="31"></td>
+        </tr>
+        <tr>
+            <td>Panama</td>
+            <td>Panama City</td>
+            <td>75,420</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/50px-Flag_of_Panama.svg.png" alt="Flag of Panama" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Papua New Guinea</td>
+            <td>Port Moresby</td>
+            <td>462,840</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/50px-Flag_of_Papua_New_Guinea.svg.png" alt="Flag of Papua New Guinea" width="50" height="38"></td>
+        </tr>
+        <tr>
+            <td>Paraguay</td>
+            <td>Asunción</td>
+            <td>406,752</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/50px-Flag_of_Paraguay.svg.png" alt="Flag of Paraguay" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Peru</td>
+            <td>Lima</td>
+            <td>1,285,216</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/50px-Flag_of_Peru.svg.png" alt="Flag of Peru" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Philippines</td>
+            <td>Manila</td>
+            <td>300,000</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/50px-Flag_of_the_Philippines.svg.png" alt="Flag of Philippines" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Poland</td>
+            <td>Warsaw</td>
+            <td>312,696</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/50px-Flag_of_Poland.svg.png" alt="Flag of Poland" width="50" height="31"></td>
+        </tr>
+        <tr>
+            <td>Portugal</td>
+            <td>Lisbon</td>
+            <td>92,212</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/50px-Flag_of_Portugal.svg.png" alt="Flag of Portugal" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Qatar</td>
+            <td>Doha</td>
+            <td>11,586</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/50px-Flag_of_Qatar.svg.png" alt="Flag of Qatar" width="50" height="20"></td>
+        </tr>
+        <tr>
+            <td>Romania</td>
+            <td>Bucharest</td>
+            <td>238,397</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/50px-Flag_of_Romania.svg.png" alt="Flag of Romania" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Russia</td>
+            <td>Moscow</td>
+            <td>17,098,246</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/50px-Flag_of_Russia.svg.png" alt="Flag of Russia" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Rwanda</td>
+            <td>Kigali</td>
+            <td>26,338</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/50px-Flag_of_Rwanda.svg.png" alt="Flag of Rwanda" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Saint Kitts and Nevis</td>
+            <td>Basseterre</td>
+            <td>261</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/50px-Flag_of_Saint_Kitts_and_Nevis.svg.png" alt="Flag of Saint Kitts and Nevis" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Saint Lucia</td>
+            <td>Castries</td>
+            <td>616</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/50px-Flag_of_Saint_Lucia.svg.png" alt="Flag of Saint Lucia" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Saint Vincent and the Grenadines</td>
+            <td>Kingstown</td>
+            <td>389</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/50px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png" alt="Flag of Saint Vincent and the Grenadines" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Samoa</td>
+            <td>Apia</td>
+            <td>2,842</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/50px-Flag_of_Samoa.svg.png" alt="Flag of Samoa" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>San Marino</td>
+            <td>San Marino</td>
+            <td>61</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/50px-Flag_of_San_Marino.svg.png" alt="Flag of San Marino" width="50" height="38"></td>
+        </tr>
+        <tr>
+            <td>Sao Tome and Principe</td>
+            <td>São Tomé</td>
+            <td>964</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/50px-Flag_of_Sao_Tome_and_Principe.svg.png" alt="Flag of Sao Tome and Principe" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Saudi Arabia</td>
+            <td>Riyadh</td>
+            <td>2,149,690</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/50px-Flag_of_Saudi_Arabia.svg.png" alt="Flag of Saudi Arabia" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Senegal</td>
+            <td>Dakar</td>
+            <td>196,722</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/50px-Flag_of_Senegal.svg.png" alt="Flag of Senegal" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Serbia</td>
+            <td>Belgrade</td>
+            <td>88,361</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/50px-Flag_of_Serbia.svg.png" alt="Flag of Serbia" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Seychelles</td>
+            <td>Victoria</td>
+            <td>455</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Seychelles.svg/50px-Flag_of_Seychelles.svg.png" alt="Flag of Seychelles" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Sierra Leone</td>
+            <td>Freetown</td>
+            <td>71,740</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/50px-Flag_of_Sierra_Leone.svg.png" alt="Flag of Sierra Leone" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Singapore</td>
+            <td>Singapore</td>
+            <td>728.6</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/50px-Flag_of_Singapore.svg.png" alt="Flag of Singapore" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Slovakia</td>
+            <td>Bratislava</td>
+            <td>49,035</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/50px-Flag_of_Slovakia.svg.png" alt="Flag of Slovakia" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Slovenia</td>
+            <td>Ljubljana</td>
+            <td>20,273</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/50px-Flag_of_Slovenia.svg.png" alt="Flag of Slovenia" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Solomon Islands</td>
+            <td>Honiara</td>
+            <td>28,400</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/50px-Flag_of_the_Solomon_Islands.svg.png" alt="Flag of Solomon Islands" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Somalia</td>
+            <td>Mogadishu</td>
+            <td>637,657</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/50px-Flag_of_Somalia.svg.png" alt="Flag of Somalia" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>South Africa</td>
+            <td>Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)</td>
+            <td>1,221,037</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/50px-Flag_of_South_Africa.svg.png" alt="Flag of South Africa" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>South Sudan</td>
+            <td>Juba</td>
+            <td>644,329</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/50px-Flag_of_South_Sudan.svg.png" alt="Flag of South Sudan" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Spain</td>
+            <td>Madrid</td>
+            <td>505,990</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png" alt="Flag of Spain" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Sri Lanka</td>
+            <td>Sri Jayawardenepura Kotte (legislative), Colombo (executive and judicial)</td>
+            <td>65,610</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/50px-Flag_of_Sri_Lanka.svg.png" alt="Flag of Sri Lanka" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Sudan</td>
+            <td>Khartoum</td>
+            <td>1,886,068</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/50px-Flag_of_Sudan.svg.png" alt="Flag of Sudan" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Sweden</td>
+            <td>Stockholm</td>
+            <td>450,295</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/50px-Flag_of_Sweden.svg.png" alt="Flag of Sweden" width="50" height="31"></td>
+        </tr>
+        <tr>
+            <td>Switzerland</td>
+            <td>Bern</td>
+            <td>41,285</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/41px-Flag_of_Switzerland.svg.png" alt="Flag of Switzerland" width="41" height="41"></td>
+        </tr>
+        <tr>
+            <td>Syria</td>
+            <td>Damascus</td>
+            <td>185,180</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/50px-Flag_of_Syria.svg.png" alt="Flag of Syria" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Taiwan</td>
+            <td>Taipei</td>
+            <td>36,197</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/50px-Flag_of_the_Republic_of_China.svg.png" alt="Flag of Taiwan" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Tajikistan</td>
+            <td>Dushanbe</td>
+            <td>143,100</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/50px-Flag_of_Tajikistan.svg.png" alt="Flag of Tajikistan" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Tanzania</td>
+            <td>Dodoma</td>
+            <td>947,303</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/50px-Flag_of_Tanzania.svg.png" alt="Flag of Tanzania" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Thailand</td>
+            <td>Bangkok</td>
+            <td>513,120</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/50px-Flag_of_Thailand.svg.png" alt="Flag of Thailand" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Timor-Leste</td>
+            <td>Dili</td>
+            <td>14,874</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/50px-Flag_of_East_Timor.svg.png" alt="Flag of Timor-Leste" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Togo</td>
+            <td>Lomé</td>
+            <td>56,785</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/50px-Flag_of_Togo.svg.png" alt="Flag of Togo" width="50" height="31"></td>
+        </tr>
+        <tr>
+            <td>Tonga</td>
+            <td>Nukuʻalofa</td>
+            <td>748</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/50px-Flag_of_Tonga.svg.png" alt="Flag of Tonga" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Trinidad and Tobago</td>
+            <td>Port of Spain</td>
+            <td>5,131</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/50px-Flag_of_Trinidad_and_Tobago.svg.png" alt="Flag of Trinidad and Tobago" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Tunisia</td>
+            <td>Tunis</td>
+            <td>163,610</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/50px-Flag_of_Tunisia.svg.png" alt="Flag of Tunisia" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Turkey</td>
+            <td>Ankara</td>
+            <td>783,562</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/50px-Flag_of_Turkey.svg.png" alt="Flag of Turkey" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Turkmenistan</td>
+            <td>Ashgabat</td>
+            <td>488,100</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/50px-Flag_of_Turkmenistan.svg.png" alt="Flag of Turkmenistan" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Tuvalu</td>
+            <td>Funafuti</td>
+            <td>26</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/50px-Flag_of_Tuvalu.svg.png" alt="Flag of Tuvalu" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Uganda</td>
+            <td>Kampala</td>
+            <td>241,038</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/50px-Flag_of_Uganda.svg.png" alt="Flag of Uganda" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Ukraine</td>
+            <td>Kyiv</td>
+            <td>603,628</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/50px-Flag_of_Ukraine.svg.png" alt="Flag of Ukraine" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>United Arab Emirates</td>
+            <td>Abu Dhabi</td>
+            <td>83,600</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/50px-Flag_of_the_United_Arab_Emirates.svg.png" alt="Flag of United Arab Emirates" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>United Kingdom</td>
+            <td>London</td>
+            <td>242,495</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/50px-Flag_of_the_United_Kingdom.svg.png" alt="Flag of United Kingdom" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>United States</td>
+            <td>Washington, D.C.</td>
+            <td>9,833,520</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" alt="Flag of United States" width="50" height="26"></td>
+        </tr>
+        <tr>
+            <td>Uruguay</td>
+            <td>Montevideo</td>
+            <td>176,215</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/50px-Flag_of_Uruguay.svg.png" alt="Flag of Uruguay" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Uzbekistan</td>
+            <td>Tashkent</td>
+            <td>447,400</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/50px-Flag_of_Uzbekistan.svg.png" alt="Flag of Uzbekistan" width="50" height="25"></td>
+        </tr>
+        <tr>
+            <td>Vanuatu</td>
+            <td>Port Vila</td>
+            <td>12,189</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/50px-Flag_of_Vanuatu.svg.png" alt="Flag of Vanuatu" width="50" height="30"></td>
+        </tr>
+        <tr>
+            <td>Vatican City</td>
+            <td>Vatican City</td>
+            <td>0.49</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/41px-Flag_of_the_Vatican_City.svg.png" alt="Flag of Vatican City" width="41" height="41"></td>
+        </tr>
+        <tr>
+            <td>Venezuela</td>
+            <td>Caracas</td>
+            <td>916,445</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/50px-Flag_of_Venezuela.svg.png" alt="Flag of Venezuela" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Vietnam</td>
+            <td>Hanoi</td>
+            <td>331,212</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/50px-Flag_of_Vietnam.svg.png" alt="Flag of Vietnam" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Yemen</td>
+            <td>Sana'a</td>
+            <td>527,968</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/50px-Flag_of_Yemen.svg.png" alt="Flag of Yemen" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Zambia</td>
+            <td>Lusaka</td>
+            <td>752,618</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/50px-Flag_of_Zambia.svg.png" alt="Flag of Zambia" width="50" height="33"></td>
+        </tr>
+        <tr>
+            <td>Zimbabwe</td>
+            <td>Harare</td>
+            <td>390,757</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/50px-Flag_of_Zimbabwe.svg.png" alt="Flag of Zimbabwe" width="50" height="25"></td>
+        </tr>
+    </tbody>
+</table>
