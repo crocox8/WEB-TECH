@@ -5,8 +5,18 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Matrimonial Registration Form</title>
 </head>
+
+<style>
+    input{
+        background-color: pink;
+        margin-top:10px;
+    }
+    *{
+        background-color: rgba(239, 40, 106, 0.4);
+    }
+    </style>
 <body>
-  <h1>Matrimonial Registration</h1>
+  <h1>❤️❤️Matrimonial Registration ❤️❤️</h1>
 
   <form id="matriForm" action="/register" method="post" enctype="multipart/form-data" novalidate>
     <fieldset>
@@ -235,7 +245,7 @@
 
     <fieldset>
       <legend>Consent</legend>
-      <label><input id="terms" name="terms" type="checkbox" required /> I agree to the Terms and Privacy Policy</label>
+      <label><input id="terms" name="terms" type="checkbox" required />QUBOOL HAI QUBOOL HAI QUBOOL HAI</label>
     </fieldset>
 
     <div>
